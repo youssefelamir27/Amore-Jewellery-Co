@@ -1,0 +1,1 @@
+Amore Jewellery Co is an elegant, responsive e-commerce website dedicated to luxury jewelry, featuring exquisite collections of necklaces, earrings, rings, and bracelets for timeless style. The site offers a sophisticated shopping experience with curated selections, customer testimonials, store locations, and premium services like free shipping and secure payments.
