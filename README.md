@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/849f296a-b385-4dc2-ae85-195ba2950bb7
+
 
 
 # Amore Jewellery Co 💎
@@ -23,7 +23,7 @@ This project demonstrates a multi-page static e-commerce structure built with HT
 
 https://github.com/user-attachments/assets/42b9e4cd-710f-4bc7-af6c-aa0ad6f6cd04
 
-
+https://github.com/user-attachments/assets/849f296a-b385-4dc2-ae85-195ba2950bb7
 
 
 https://github.com/user-attachments/assets/b78ad504-bcff-4ee9-a541-18a6da4873f7
