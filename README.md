@@ -1,10 +1,8 @@
 
-https://github.com/user-attachments/assets/6efc822f-b6d7-4f96-9603-b77b99a3cbd7
+https://github.com/user-attachments/assets/849f296a-b385-4dc2-ae85-195ba2950bb7
+
+
 # Amore Jewellery Co 💎
-
-![Amore Jewellery Co Banner](https://via.placeholder.com/1200x600.png?text=Amore+Jewellery+Co+-+Timeless+Elegance)  
-*(Replace with a real screenshot or banner image once you enhance the visuals)*
-
 An elegant e-commerce website for **Amore Jewellery Co**, a fictional luxury jewelry brand offering exquisite collections of necklaces, earrings, rings, bracelets, watches, perfumes, and accessories for men and women.
 
 **Live Demo**: (https://youssefelamir27.github.io/Amore-Jewellery-Co/)
@@ -22,9 +20,17 @@ This project demonstrates a multi-page static e-commerce structure built with HT
 
 
 
-https://github.com/user-attachments/assets/aba54932-dbea-4e87-b131-d9dd66c6aa6b
-https://github.com/user-attachments/assets/1cdaab9e-0158-4b0c-a3ac-2592e56db175
-https://github.com/user-attachments/assets/bffe92f4-4ce9-4561-9039-fe69d9719a93
+
+https://github.com/user-attachments/assets/42b9e4cd-710f-4bc7-af6c-aa0ad6f6cd04
+
+
+
+
+https://github.com/user-attachments/assets/b78ad504-bcff-4ee9-a541-18a6da4873f7
+
+
+
+
 
 
 
