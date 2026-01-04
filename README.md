@@ -23,14 +23,7 @@ This project demonstrates a multi-page static e-commerce structure built with HT
 
 
 https://github.com/user-attachments/assets/aba54932-dbea-4e87-b131-d9dd66c6aa6b
-
-
-
 https://github.com/user-attachments/assets/1cdaab9e-0158-4b0c-a3ac-2592e56db175
-
-
-
-
 https://github.com/user-attachments/assets/bffe92f4-4ce9-4561-9039-fe69d9719a93
 
 
@@ -47,6 +40,4 @@ https://github.com/user-attachments/assets/bffe92f4-4ce9-4561-9039-fe69d9719a93
 - **GitHub Pages** – Hosting the live site
 
 
-
-## Project Structure
 
